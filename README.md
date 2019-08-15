@@ -8,14 +8,14 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# serve with hot reload at localhost:8081
+ibox版本：npm run test_ibox
+android版本：npm run test_android
 
 # build for production with minification
-npm run build
+ibox版本：npm run ibox
+android版本：npm run android
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 # 项目结构
 
