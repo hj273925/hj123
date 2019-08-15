@@ -5,9 +5,9 @@
       npm run t_ibox
 
 .
-|-- App.vue                    //项目入口
-|-- _nav.js                    //侧边菜单配置
-|-- assets                     //静态资源
+├── App.vue                    //项目入口
+├── _nav.js                    //侧边菜单配置
+├── assets                     //静态资源
 |   |-- down.png
 |   |-- font-icon
 |   |   |-- iconfont.css
@@ -15,7 +15,7 @@
 |   |   |-- iconfont.svg
 |   |   |-- iconfont.ttf
 |   |   |-- iconfont.woff
-|   |   `-- iconfont.woff2
+|   |   -- iconfont.woff2
 |   |-- icon
 |   |   |-- clock.svg
 |   |   |-- remind.svg
@@ -183,3 +183,4 @@
     `-- login                  //登录
         |-- Login.vue
         `-- container.js
+.
