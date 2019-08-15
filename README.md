@@ -3,7 +3,10 @@
       npm install
       //运行服务
       npm run t_ibox
+```
+# 项目结构
 
+```
 .
 ├── App.vue                    //项目入口
 ├── _nav.js                    //侧边菜单配置
